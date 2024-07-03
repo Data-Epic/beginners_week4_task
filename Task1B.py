@@ -13,3 +13,19 @@ print(type(e))
 f = "I have a strong feeling that everything would be okay"
 print(f)
 print(type(f))
+
+
+commonly_found_fruits = ["apples", "pineapples", "banana", "cherry", "grapes", "Oranges", "Mangoes", "grapes", "watermelons", "sweetmelons"]
+print(commonly_found_fruits)
+print(type('commonly_found_fruits'))
+
+Brand_of_Cars = ('Volkswagen', 'Toyota', 'BMW', 'Honda', 'Mazda', 'Mercedes', 'Ferrari')
+print(Brand_of_Cars)
+print(type(Brand_of_Cars))
+
+
+Names_of_Boys = {'John', 'Gavin', 'Emeka', 'Bolarinwa', 'James', 'Akintola', 'Aderemu'}
+print(Names_of_Boys)
+type(Names_of_Boys)
+
+
