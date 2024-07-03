@@ -24,7 +24,7 @@ print(Brand_of_Cars)
 print(type(Brand_of_Cars))
 
 
-Names_of_Boys = {'John', 'Gavin', 'Emeka', 'Bolarinwa', 'James', 'Akintola', 'Aderemu'}
+Names_of_Boys = {'John', 'Gavin', 'Emeka', 'Bolarinwa', 'James', 'Akintola', 'Aderemu', 'Hope'}
 print(Names_of_Boys)
 type(Names_of_Boys)
 
